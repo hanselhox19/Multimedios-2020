@@ -1,0 +1,17 @@
+{
+  "name": "pagina-multimedios",
+  "version": "1.0.0",
+  "description": "Proyecto Indivdual Multimedios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css --output-style expanded"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Hansel Salas M",
+  "license": "ISC"
+}
